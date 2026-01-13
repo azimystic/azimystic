@@ -2,7 +2,7 @@
 
 **Full-Stack Software Engineer** based in Lahore, Pakistan.
 
-I specialize in building robust, enterprise-grade applications using **.NET** and **React**. With a strong background in **Healthcare ERPs** and **Hardware Integrations**, I focus on delivering compliant, scalable, and high-performance solutions.
+I specialize in building robust, enterprise-grade applications using **.NET** and **React**. With a strong background in **Healthcare ERPs**, *School ERPs** and **Hardware Integrations**, I focus on delivering compliant, scalable, and high-performance solutions.
 
 ---
 
@@ -14,6 +14,7 @@ I specialize in building robust, enterprise-grade applications using **.NET** an
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 **Databases & Tools**
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
@@ -26,8 +27,8 @@ I specialize in building robust, enterprise-grade applications using **.NET** an
 ### 🔭 What I'm Working On
 
 * [cite_start]**Hospital Management Systems:** Architecting solutions for 100+ enterprise companies using .NET Core and SQL Server[cite: 14].
-* [cite_start]**Hardware Integrations:** Building TCP/IP communication layers for **HL7/ASTM** lab machines and integrating **ZKTeco Biometrics**.
-* [cite_start]**Compliance Tech:** Developing FBR-compliant digital invoicing modules for corporate clients[cite: 5].
+* [cite_start]**Hardware Integrations:** Building custom TCP/IP communication layers for **HL7/ASTM** lab machines [cite: 16] [cite_start]and integrating **ZKTeco Biometrics** for automated attendance[cite: 23].
+* [cite_start]**Compliance Tech:** Developing FBR-compliant digital invoicing modules for corporate clients[cite: 5, 15].
 
 ---
 
@@ -42,5 +43,5 @@ I specialize in building robust, enterprise-grade applications using **.NET** an
 
 ### 📫 Connect with Me
 
-* [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-URL)
+* [LinkedIn](https://www.linkedin.com/in/chazeemaslam)
 * [Email](mailto:theazeemaslam@gmail.com)
