@@ -34,8 +34,8 @@ I specialize in building robust, enterprise-grade applications using **.NET** an
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=radical" height="180" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=azimystic&show_icons=true&theme=radical" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azimystic&layout=compact&theme=radical" height="180" alt="languages" />
 </div>
 
 ---
